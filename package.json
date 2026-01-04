@@ -1,0 +1,14 @@
+{
+  "name": "college_project",
+  "version": "1.0.0",
+  "description": "College Project",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 3000",
+    "dev": "http-server -p 3000 -o"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
